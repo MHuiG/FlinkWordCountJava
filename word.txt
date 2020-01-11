@@ -1,0 +1,4 @@
+I love hadoop
+I love hdfs
+I love hive
+I love flink
