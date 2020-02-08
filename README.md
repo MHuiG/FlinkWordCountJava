@@ -1,6 +1,7 @@
 # FlinkWordCountJava
 
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![Open Source Love](https://cdn.jsdelivr.net/gh/MHuiG/imgbed/github/open-source.svg)](https://github.com/ellerbrock/open-source-badges/)[![MIT Licence](https://cdn.jsdelivr.net/gh/MHuiG/imgbed/github/mit.svg)](https://opensource.org/licenses/mit-license.php)
+
 
 Flink WordCount Java
